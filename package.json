@@ -1,5 +1,5 @@
 {
-  "name": "TOM BOT",
+  "name": "tombot-app",
   "version": "0.1.0",
   "description": "A simple GroupMe bot",
   "main": "src/index.js",
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "director": "",
+    "npm": "^6.12.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "sentiment": "^5.0.1",
