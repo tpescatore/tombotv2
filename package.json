@@ -1,5 +1,5 @@
 {
-  "name": "tombot-app",
+  "name": "testmygmbot",
   "version": "0.1.0",
   "description": "A simple GroupMe bot",
   "main": "src/index.js",
